@@ -179,8 +179,8 @@ int main()
         }
         if (ch == 3)
         {
-            cout << "Display All" << endl;
-            cin >> value;
+            // cout << "Display All" << endl;
+            // cin >> value;
             Display_All(value);
         }
 
